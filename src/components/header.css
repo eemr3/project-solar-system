@@ -1,0 +1,14 @@
+header {
+  background-color: rgba(128, 128, 128, 0.301);
+  color: white;
+  height: 90px;
+  padding: 10px;
+  position: sticky;
+  text-align: center;
+  top: 0;
+  width: 100%;
+}
+
+header h1 {
+  font-size: 3rem;
+}

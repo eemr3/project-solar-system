@@ -1,3 +1,16 @@
 .conteiner-planet {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 50px 0;
+}
+
+.conteiner-planet h2 {
+  font-size: 2.5rem;
+  margin-bottom: 25px;
+}
+
+.content-planet {
   display: flex;
 }

@@ -8,16 +8,18 @@ import './solarSystem.css';
 class SolarSystem extends Component {
   render() {
     return (
-      <div data-testid="solar-system" className="conteiner-planet">
+      <section data-testid="solar-system" className="conteiner-planet">
         <Title headline="Planetas" />
-        {planets.map((planet) => (
-          <PlanetCard
-            key={ planet.name }
-            planetName={ planet.name }
-            planetImage={ planet.image }
-          />
-        ))}
-      </div>
+        <div className="content-planet">
+          {planets.map((planet) => (
+            <PlanetCard
+              key={ planet.name }
+              planetName={ planet.name }
+              planetImage={ planet.image }
+            />
+          ))}
+        </div>
+      </section>
     );
   }
 }
