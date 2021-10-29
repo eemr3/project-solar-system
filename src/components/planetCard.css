@@ -1,3 +1,10 @@
 img {
   width: 150px;
 }
+
+h3 {
+  color: whitesmoke;
+  font-size: 1.2rem;
+  letter-spacing: 0.2em;
+  text-align: center;
+}
