@@ -1,20 +1,21 @@
 
 # Project Solar System
 
+Projet que renderiza imagem de 8 planetas do nosso sistema solar. E renderiza cards com informações desses planetar.
 Projeto realizado para consolidar o aprendizado do primeiro bloco do módulo de front-end no curso da Trybe.
+
+## Etiquetas
+
+![GitHub repo size](https://img.shields.io/github/repo-size/eemr3/project-solar-system)
+![GitHub top language](https://img.shields.io/github/languages/top/eemr3/project-solar-system)
+[![GitHub issues](https://img.shields.io/github/issues/eemr3/project-solar-system)](https://github.com/eemr3/project-solar-system/issues)
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![GitHub stars](https://img.shields.io/github/stars/eemr3/project-solar-system)](https://github.com/eemr3/project-solar-system/stargazers)
 
 
 ## Aprendizados
 
-Aprendi o que é components, como cria-los e utiliza-los no projeto de forma reutilizavel.
-
-
-## Etiquetas
-
-Adicione etiquetas de algum lugar, como: [shields.io](https://shields.io/)
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-
+O que é o ReactJs, seus principais pilares um deles que é a componentização. Como criar componentes e reutiliza-los no projeto.
 
 
 ## Screenshots
@@ -24,8 +25,7 @@ Adicione etiquetas de algum lugar, como: [shields.io](https://shields.io/)
 
 ## Stack utilizada
 
-**Front-end:** React
-
+**Front-end:** React, Node
 
 ## Rodando localmente
 
@@ -53,10 +53,11 @@ Inicie o servidor
   npm start
 ```
 
-
+Acesse no navegador
+```bash
+  http://localhost:3000/
+```
 ## Licença
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
-## NavBar
